@@ -34,5 +34,6 @@ A reboot toward becoming a **reliable programmer**, grounded in fundamentals rat
 ---
 
 [Day 1: Variables, types, reassignment, printing](https://github.com/ManiWizard/Py30/blob/master/Week%2001/Day%2001/main.py)
+
 [Day 2: Variables and built-in functions](https://github.com/ManiWizard/Py30/blob/master/Week%2001/Day%2002/main.py)
 
