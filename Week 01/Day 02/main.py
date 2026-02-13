@@ -80,9 +80,9 @@ total = Num_01 + Num_02
 diff = Num_01 - Num_02
 product = Num_01 * Num_02
 division = Num_01 / Num_02
-remainder = Num_01 // Num_02
+remainder = Num_01 % Num_02
 exp = Num_01**Num_02
-floor_division = int(division)
+floor_division = Num_01 // Num_02
 
 print(
     "Total: ",
