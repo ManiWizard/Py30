@@ -44,6 +44,7 @@ A reboot toward becoming a **reliable programmer**, grounded in fundamentals rat
 - 🟢 [Day 1: Variables, types, reassignment, printing](https://github.com/ManiWizard/Py30/blob/master/Week%2001/Day%2001/main.py)
 - 🟢 [Day 2: Variables and built-in functions](https://github.com/ManiWizard/Py30/blob/master/Week%2001/Day%2002/main.py)
 - 🟢 [Day 3: Arithmetic operators, logical operators, comparisons, and mathematical exercises](https://github.com/ManiWizard/Py30/blob/master/Week%2001/Day%2003/main.py)
+- 🟢 [Day 4: Exercises](https://github.com/ManiWizard/Py30/blob/master/Week%2001/Day%2004/Exercises.py)
 - Day 4 penalty :
     - 🟢 [Day 4 penalty:](https://github.com/ManiWizard/Py30/blob/master/Week%2001/%23%20Penalties/Day%2004%20Penalty.py)
 ---
