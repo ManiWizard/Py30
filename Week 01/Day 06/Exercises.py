@@ -29,8 +29,7 @@ print(f"Family: {", ".join(Family_Members)}")
 
 print()
 
-# # Exercise A
-
+# # Exercise B
 # Exercises: Level 2
 #   - 01.Unpack siblings and parents from family_members
 #   - 02.Create fruits, vegetables and animal products tuples. Join the three tuples and assign it to a variable called food_stuff_tp.
@@ -68,7 +67,6 @@ print(food_stuff_lt[0:3])
 print(food_stuff_lt[-3:])
 
 del food_stuff_tp
-
 
 Nord = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
 
